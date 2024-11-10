@@ -13,8 +13,8 @@ const ProjectInfo = [
         image: "Ekart.png",
         live: true,
         technologies: ["React", "Tailwind", "Redux", "Socet.IO", "MongoDB"],
-        link: "https://code-mars.github.io/Ekart/",
-        github: "https://github.com/Code-Mars/Ekart/"
+        link: "https://let-talk-web.vercel.app",
+        github: "https://github.com/Vinayjain2002/let-Talk-Web"
     },
     {
         title: "Amazon Clone",
@@ -22,8 +22,8 @@ const ProjectInfo = [
         image: "Facebook.png",
         live: false,
         technologies: ["React", "Redux","MongoDB", "Tailwind", "TypeScript"],
-        link: "https://github.com/Code-Mars/Facebook-Clone",
-        github: "https://github.com/Code-Mars/Facebook-Clone"
+        link: "",
+        github: ""
     },
     {
         title: "Social Media Website",
@@ -31,17 +31,17 @@ const ProjectInfo = [
         image: "Spotify.png",
         live: false,
         technologies: ["React",  "Tailwind",  "MongoDB", "Node.Js"],
-        link: "https://github.com/Code-Mars/Spotify-Clone",
-        github: "https://github.com/Code-Mars/Spotify-Clone"
+        link: "",
+        github: ""
     },
     {
-        title: "Travel Tracker",
-        desc: "Travel Tracker is a full-stack web application that allows users to track their travel experiences and share them with others. The front end is built with React, Bootstrap, while the back end uses Node.js, Express, and PostgresSQL. Users can create an account, log in, add new trips, and view their past trips on a map. The app features a clean, modern design with interactive maps and a user-friendly interface. Travel Tracker combines functionality with style, making it easy and enjoyable to record and share travel memories.",
+        title: "Let Travel",
+        desc: "The Hotel Booking Web Application, built using the MERN stack (MongoDB, Express.js, React, Node.js) and GraphQL, provides an efficient platform for users to search, book, and manage hotel reservations. With GraphQL, users can quickly find hotels based on various criteria like location and price. They can view available rooms, make bookings, and check their reservation history. Administrators can add new hotels, manage room inventories, and view all hotel bookings. The system allows seamless integration for hotel management, from adding new hotels to managing room availability, creating a dynamic and user-friendly experience for both guests and administrators.",
         image: "Travel.png",
         live: false,
-        technologies: ["React", "Node.js", "PostgresSQL", "Express", "Bootstrap"],
-        link: "https://github.com/Code-Mars/Travel-Tracker",
-        github: "https://github.com/Code-Mars/Travel-Tracker"
+        technologies: ["React", "Node.js", "GraphQL", "Express"],
+        link: "https://hotel-booking-ashy-mu.vercel.app",
+        github: "https://github.com/Vinayjain2002/Hotel-Booking"
     }
 ]
 
@@ -65,11 +65,9 @@ const SkillInfo = [
     }
 ]
 const socialLinks = [
-    { link: "https://github.com/Code-Mars", icon: IconBrandGithub },
-    { link: "https://www.linkedin.com/in/chandrabhan-maurya", icon: IconBrandLinkedin },
-    { link: "https://www.linkedin.com/in/chandrabhan-maurya", icon: IconBrandLinkedin },
-    { link: "https://www.linkedin.com/in/chandrabhan-maurya", icon: IconBrandLinkedin },
-
+    { link: "https://github.com/Vinayjain2002", icon: IconBrandGithub },
+    { link: "https://www.linkedin.com/in/er-vinayjain", icon: IconBrandLinkedin },
+    { link: "https://leetcode.com/u/vinay_jain_61787/", icon: IconBrandLeetcode }
 ];
 
 
